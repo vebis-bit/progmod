@@ -14,5 +14,4 @@ def newton(x,f,fder, tol=1E-8):
 
 
 
-
 print(newton(10, f, fder))
